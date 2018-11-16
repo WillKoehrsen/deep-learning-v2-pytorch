@@ -2,4 +2,5 @@
 *.gz
 *.png
 *batches*
+*ubyte*
 */data/*
