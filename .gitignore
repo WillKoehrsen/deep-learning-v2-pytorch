@@ -1,6 +1,7 @@
 .ipynb_checkpoints
 *.gz
 *.png
+*raw/*
 *batches*
 *ubyte*
 */data/*
