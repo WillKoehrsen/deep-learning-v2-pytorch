@@ -13,3 +13,4 @@ h5py
 ipykernel
 bokeh
 pickleshare
+tensorflow>=1.6.0
